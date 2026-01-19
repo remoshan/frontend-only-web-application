@@ -19,13 +19,6 @@ Open `index.html` in any modern browser to view the site locally.
 
 ---
 
-## Images
-
-The images are provided in two zip files due to size limits.  
-Please **extract both zip files** and combine their contents into a single folder named `images` inside the project directory for the website to work correctly.
-
----
-
 ## Technologies Used
 
 - HTML5  
