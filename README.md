@@ -34,6 +34,15 @@ The video used on the About page is hosted on YouTube and can be viewed here:
 
 ---
 
+## Contact
+
+Created by **Remoshan**  
+- Email: [remoshanfrancis123@outlook.com](mailto:remoshanfrancis123@outlook.com)  
+- GitHub: [github.com/remoshan](https://github.com/remoshan)  
+- LinkedIn: [linkedin.com/in/francis-remoshan](https://www.linkedin.com/in/francis-remoshan)
+
+---
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
