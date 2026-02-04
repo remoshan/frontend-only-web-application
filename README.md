@@ -42,7 +42,7 @@ Clone the repository and open the project:
 
 ```bash
 # Clone the repository
-git clone https://github.com/FrancisRemoshan/frontend-only-web-application.git
+git clone https://github.com/remoshan/frontend-only-web-application.git
 
 # Move into the project directory
 cd frontend-only-web-application
