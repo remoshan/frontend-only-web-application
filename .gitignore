@@ -1,0 +1,30 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+web_packages/
+
+# Build outputs (if using Sass, Less, or Bundlers like Vite/Webpack)
+dist/
+build/
+.cache/
+.parcel-cache/
+
+# Environment variables (Sensitive Data!)
+.env
+.env.local
+.env.sample
+
+# OS Metadata
+.DS_Store
+Thumbs.db
+
+# Editor/IDE specific
+.vscode/
+.idea/
+*.swp
+*.log
+
+# CSS Preprocessors
+.sass-cache/
+*.css.map
+*.sass.map
