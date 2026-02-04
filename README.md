@@ -8,12 +8,9 @@
 
 ### Visuals
 
-> _Hero / Screenshot Placeholder_  
-> Replace the path below with your own image once available:
-
-```md
-![Easy Buying – Homepage Preview](docs/images/hero-easy-buying.png)
-```
+![Home Page](https://github.com/user-attachments/assets/b807dd02-e4ba-412c-8546-32814caf2ced)
+![Shop Page](https://github.com/user-attachments/assets/1d66fe99-6ec2-4436-b82e-77c0c34b01e8)
+![Login Page](https://github.com/user-attachments/assets/d47a75d9-0cb0-4bc5-b812-98c7fdba1f69)
 
 ---
 
