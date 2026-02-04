@@ -1,5 +1,5 @@
 ## frontend-only-web-application  
-### Easy Buying – A Modern Frontend for a Fruit & Vegetable Stall 🥕🍎
+### Easy Buying – A Modern Frontend for a Fruit & Vegetable Stall
 
 > A lightweight, responsive frontend-only website for an imaginary stall called **Easy Buying**, built with **HTML**, **CSS**, and **JavaScript**.  
 > Created by **Francis Remoshan** as a first-year project.
@@ -17,19 +17,19 @@
 
 ---
 
-### Features ✨
+### Features
 
-- ✅ **Responsive Layout** – Optimized for desktops, tablets, and mobile devices.
-- 🧺 **Product Showcase** – Clean listing of fruits and vegetables with prices and descriptions.
-- 🔎 **Search & Filter** – Quickly find items by name or category.
-- 🛒 **Lightweight “Cart-like” Experience** – Add items to a pseudo-cart (frontend-only; no backend).
-- 🎨 **Modern UI/UX** – Minimalist design using pure CSS, focusing on readability and usability.
-- ⚡ **Vanilla JS Only** – No frameworks, easy to understand and extend.
-- 🌐 **Configurable Endpoints** – Optional environment-based configuration for APIs (if you connect one later).
+- **Responsive Layout** – Optimized for desktops, tablets, and mobile devices.
+- **Product Showcase** – Clean listing of fruits and vegetables with prices and descriptions.
+- **Search & Filter** – Quickly find items by name or category.
+- **Lightweight “Cart-like” Experience** – Add items to a pseudo-cart (frontend-only; no backend).
+- **Modern UI/UX** – Minimalist design using pure CSS, focusing on readability and usability.
+- **Vanilla JS Only** – No frameworks, easy to understand and extend.
+- **Configurable Endpoints** – Optional environment-based configuration for APIs (if you connect one later).
 
 ---
 
-### Getting Started 🚀
+### Getting Started
 
 #### Prerequisites
 
@@ -68,7 +68,7 @@ Or simply open `index.html` directly in your browser (double-click or drag-and-d
 
 ---
 
-### Usage 📦
+### Usage
 
 Below is an example of how a typical product card and basic interaction might work in this project.
 
@@ -112,7 +112,7 @@ Open the site in your browser and click **Add to Basket** on any product to see 
 
 ---
 
-### Configuration ⚙️
+### Configuration
 
 While this is a **frontend-only** application, you can optionally configure environment-like variables (e.g., API endpoints) using a simple config file (such as `config.js`) or build-time environment injection.
 
@@ -134,7 +134,7 @@ window.EASY_BUYING_CONFIG = {
 
 ---
 
-### Contributing 🤝
+### Contributing
 
 Contributions are welcome! To propose changes:
 
@@ -166,30 +166,7 @@ Please keep your changes focused and small where possible for easier review.
 
 ---
 
-### License 📄
+### License
 
-This project is licensed under the **MIT License**.
-
-```md
-MIT License
-
-Copyright (c) 2026 Francis Remoshan
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+This project is licensed under the **MIT License**.  
+See the `LICENSE` file in the repository root for the full license text and details.
